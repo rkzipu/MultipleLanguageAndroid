@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="example.com.multilanguageexample.MainActivity">
+    <item
+        android:id="@+id/action_settings_BN"
+        android:orderInCategory="100"
+        android:title="BN"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings_EN"
+        android:orderInCategory="100"
+        android:title="EN"
+        app:showAsAction="never" />
+</menu>
